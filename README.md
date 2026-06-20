@@ -1,4 +1,4 @@
-<h1>🛒 WEB-Supermercados-HTML </h1>
+<h1 align = "center" >🛒 WEB-Supermercados-HTML </h1>
 
 Colección de páginas web desarrolladas en HTML5 como práctica de desarrollo web durante el ciclo formativo de SMR (Sistemas Microinformáticos y Redes).
 
@@ -30,7 +30,7 @@ Organización de contenido
 Creación de navegación entre páginas
 Diseño básico de sitios web estáticos
 
-<br><br><
+<br><br>
 📁 Estructura del proyecto
 El proyecto está formado por varias páginas HTML que representan distintos supermercados y se conectan entre sí mediante enlaces internos.
 <br><br>
